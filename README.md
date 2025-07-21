@@ -1,4 +1,4 @@
-# SAM-Zero3D: Zero-Shot 3D Scene Segmentation Using SAM
+# SAM-Zero3D
 
 SAM-Zero3D is a training-free framework that extends the Segment Anything Model (SAM) to 3D scene segmentation. By transferring multi-view 2D masks into 3D space, it enables accurate semantic segmentation without the need for 3D annotations or training.
 
